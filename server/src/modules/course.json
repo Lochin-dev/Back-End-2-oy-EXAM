@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1712c528-bb6a-40da-a6ba-a7185e9be8e8",
+        "userId": "26a0db34-6756-43c4-a6df-7c67781e6742",
+        "title": "JS",
+        "price": "800000",
+        "image": "/img/7803d85e-9854-44ec-8115-a4535a6005f0javascript.avif",
+        "username": "Dilshodbek"
+    },
+    {
+        "id": "d1b50e7b-24e2-44db-b954-3f0aa2a89566",
+        "userId": "26a0db34-6756-43c4-a6df-7c67781e6742",
+        "title": "CSS",
+        "price": "700000",
+        "image": "/img/7db705ac-deba-4d00-94b0-951a2e2142f1css.png",
+        "username": "Dilshodbek"
+    }
+]

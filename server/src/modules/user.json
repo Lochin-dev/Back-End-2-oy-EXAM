@@ -1,0 +1,23 @@
+[
+    {
+        "id": "53ea9c57-eac9-48d9-9693-8fee447570a1",
+        "image": "https://i.pinimg.com/736x/c8/83/5a/c8835a6e6574327ef5b033a66098ecce.jpg",
+        "username": "Sardor",
+        "email": "sardor@gmail.com",
+        "password": "$2a$12$OYA0W5SneE1EbnuFA0kbcOlUjW5cGdqD1zxHX5DirBq4kUjxTJCt."
+    },
+    {
+        "id": "5a6b2fba-e5f0-4b39-9e3d-874c48f8d870",
+        "image": "/img/7dd1bbd9-bd3e-4bb5-ae89-3f8e8b796dddphoto_2019-03-01_11-44-30.jpg",
+        "username": "Lochinbek",
+        "email": "lochinbek@gmail.com",
+        "password": "$2a$12$PPFCD4xY/8yhu8rUw1rZsu49DdHkCXFlPtbEVlYRVuItuu4FXRBiS"
+    },
+    {
+        "id": "275dda65-389b-45f0-8b04-438144628493",
+        "image": "/img/148643c7-6890-4c13-ba39-ca1a55d84076photo_2019-03-01_11-44-30.jpg",
+        "username": "Lochin",
+        "email": "lochin@gmail.com",
+        "password": "$2a$12$KBGMZYM8pCf5X0P4FVCGQuvhcBLMkxFkY8aVrjYnf0evAAUDqdu5a"
+    }
+]
